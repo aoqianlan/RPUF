@@ -3,10 +3,10 @@
 It was used to predict the apparent density (AD), thermal conductivity (TC) and compressive strength (CS) of rigid polyurethane foam (RPUF)
 
 ### Main Features
-- Feature engineering (calculating foam gas production, etc.)
-- Regression and classification models for performance prediction and type differentiation
-- SHAP analysis and correlation analysis
-- Streamlit visualization interface
+:star2: Feature engineering (calculating foam gas production, etc.)
+:star2: Regression and classification models for performance prediction and type differentiation
+:star2: SHAP analysis and correlation analysis
+:star2: Streamlit visualization interface
 
 ## Installation
 
