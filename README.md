@@ -4,10 +4,13 @@ It was used to predict the apparent density (AD), thermal conductivity (TC) and 
 
 ### Main Features
 
-- :star2: Feature engineering (calculating foam gas production, etc.)
-- :star2: Regression and classification models for performance prediction and type differentiation
-- :star2: SHAP analysis and correlation analysis
-- :star2: Streamlit visualization interface
+Main Features
+<ul>
+  <li>★ Feature engineering (calculating foam gas production, etc.)</li>
+  <li>★ Regression and classification models for performance prediction and type differentiation</li>
+  <li>★ SHAP analysis and correlation analysis</li>
+  <li>★ Streamlit visualization interface</li>
+</ul>
 
 ## Installation
 
