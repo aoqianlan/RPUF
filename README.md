@@ -1,12 +1,13 @@
-# RPUF:Predicted AD TC and CS
+# RPUF: Predicted AD TC and CS
 
 It was used to predict the apparent density (AD), thermal conductivity (TC) and compressive strength (CS) of rigid polyurethane foam (RPUF)
 
 ### Main Features
-:star2: Feature engineering (calculating foam gas production, etc.)
-:star2:- Regression and classification models for performance prediction and type differentiation
-:star2: SHAP analysis and correlation analysis
-:star2: Streamlit visualization interface
+
+- :star2: Feature engineering (calculating foam gas production, etc.)
+- :star2: Regression and classification models for performance prediction and type differentiation
+- :star2: SHAP analysis and correlation analysis
+- :star2: Streamlit visualization interface
 
 ## Installation
 
@@ -46,13 +47,3 @@ For more usage, please refer to the source code and comments.
 
 Evaluate dataset quality using correlation convergency inspired from perturbation theory. submit.
 
-
-## DQ
-
-The GUI for the application of DCC(Dataset Correlation Convergency) framework for any datasets with one selected preditive target.
-
-### Main Features
-- Correlation matrix calculation (Pearson, Spearman, etc.)
-- Analysis of the impact of missing data ratio on correlation coefficients
-- Feature correlation and stability evaluation
-- Streamlit visualization interface
